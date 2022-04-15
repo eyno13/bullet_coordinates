@@ -21,3 +21,5 @@ https://rosettacode.org/wiki/Problem_of_Apollonius
 
 Моделирование патента по известным координатам попадания. Вычисления не сходятся:
 [расчет временных интервалов версяи 4.xlsx](https://github.com/eyno13/bullet_coordinates/files/8408892/4.xlsx)
+
+testing
